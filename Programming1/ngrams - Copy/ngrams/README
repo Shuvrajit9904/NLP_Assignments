@@ -1,0 +1,9 @@
+I am using python 2.7
+run this to get the ngrams model log probabilities:
+	ngrams train.txt -test test.txt
+run this to get the sentence generated:
+	ngrams train.txt -gen seeds.txt
+I have tested the code on CADE labe l25 machine
+Though please make sure the paths are correct and all the required files are in the required path.
+Thanks
+

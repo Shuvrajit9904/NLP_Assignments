@@ -1,0 +1,7 @@
+The code has been executed on CADE machine Lab2-28 and uses Python version 2.7.5
+
+To execute the first part of the problem statement (building N-gram language models), execute:
+python ngrams.py <training_file> -test <test_file>
+
+To execute the second part of the problem statement (generating sentences), execute:
+python ngrams.py <training_file> -gen <seeds_file>
